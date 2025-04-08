@@ -12,7 +12,9 @@ published in: 2023 13th Italian Information Retrieval Workshop (IIR), available 
  <img src="IJCB_logo-900x207.png"  width="750" alt="Degradation Results"/> 
 </div>
 <br>
+
 ## Authors
+
 <ul>
 <li> Andrea Atzori (University of Cagliari) <a href="https://scholar.google.com/citations?hl=it&user=3_Z6fQ4AAAAJ" target="_blank">Google Scholar</a> (<a href="mailto:andrea.atzori@ieee.org" target="_blank">Contact via Email</a>) 
 <li> Gianni Fenu (University of Cagliari) <a href="https://scholar.google.com/citations?user=riCjuhkAAAAJ&hl=it" target="_blank">Google Scholar</a>
