@@ -81,11 +81,9 @@ From Demographic Bias in Deep Face Recognition in The Wild (follow <a href="http
 
 
 ## Contributing
-This code is provided for educational purposes and aims to facilitate the reproduction of our results and further research in this direction. We have done our best to document, refactor, and test the code before publication.
-
+This code is provided for educational purposes and aims to facilitate the reproduction of our results and further research in this direction. 
 If you find any bugs or would like to contribute new models, training protocols, etc, please let us know.
-
-Please feel free to file issues and pull requests on the repo and we will address them as we can.
+Please feel free to file issues and pull requests on the repo, and we will address them as soon as possible.
 
 ## License
 
